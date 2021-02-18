@@ -6,6 +6,10 @@ Atlanbh - QA Engineer - Test task - [Emsad Ahmetašević](https://emsad87.github
 
 These are the test task result files for Atlantbh - QA Engineer - Test
 
+e-commerce test
+
+Target: [e-commerce](http://automationpractice.com/index.php)
+
 Created automated Smoke test cases, positive and negative test cases in separated files.
 
 Used framework: [TestCafe](https://devexpress.github.io/testcafe/)
