@@ -1,10 +1,10 @@
-# Atlantbh - QA Engineer - Test
+# QA Engineer - Test
 
-Atlanbh - QA Engineer - Test task - [Emsad Ahmetašević](https://emsad87.github.io/)
+QA Engineer - Test task - [Emsad Ahmetašević](https://emsad87.github.io/)
 
 # Description
 
-These are the test task result files for Atlantbh - QA Engineer - Test
+These are the test task result files QA Engineer Test
 
 e-commerce test
 
